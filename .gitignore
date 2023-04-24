@@ -1,3 +1,4 @@
 image/
 images/
 scrapenv/
+__pycache__/
